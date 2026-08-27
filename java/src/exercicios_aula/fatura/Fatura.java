@@ -1,4 +1,4 @@
-package exercicios_aula;
+package exercicios_aula.fatura;
 
 import java.util.ArrayList;
 import java.util.List;
