@@ -1,5 +1,9 @@
 package exercicios_aula;
 
+import exercicios_aula.fatura.Cliente;
+import exercicios_aula.fatura.Fatura;
+import exercicios_aula.fatura.Item;
+
 public class Main {
     static void main(String[] args) {
 

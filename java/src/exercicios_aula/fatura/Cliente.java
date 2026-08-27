@@ -1,4 +1,4 @@
-package exercicios_aula;
+package exercicios_aula.fatura;
 
 public class Cliente {
         private String nome;
