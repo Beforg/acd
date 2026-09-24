@@ -1,4 +1,4 @@
-package exercicios_s2;
+package exercicios_aula.moodle;
 
 public class Employee {
     private String firstName;

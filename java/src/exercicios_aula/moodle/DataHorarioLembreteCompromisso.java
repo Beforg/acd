@@ -1,4 +1,4 @@
-package exercicios_s1;
+package exercicios_aula.moodle;
 
 // Para rodar em conjunto
 public class DataHorarioLembreteCompromisso {
